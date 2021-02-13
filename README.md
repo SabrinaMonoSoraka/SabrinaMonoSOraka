@@ -1,5 +1,5 @@
 
-## 👋 Olá pessoinhas  :man_technologist:
+## 👋 Olá pessoinhas 
 
 
 
