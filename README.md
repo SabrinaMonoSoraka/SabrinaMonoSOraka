@@ -9,7 +9,7 @@
 ### Sobre mim:
 - :heart: Hacking, Javascript , Python
 - 💻 Servidor Hacking e Programação [discord server](https://discord.gg/cvBFQWczRt)
-- :shipit: Meu bot para Discord [TOP.GG](https://top.gg/bot/687035920452550687)
+- 🤖 Meu bot para Discord [TOP.GG](https://top.gg/bot/687035920452550687)
 - 🎮 Infelizmente sou péssima em lol
 
 
