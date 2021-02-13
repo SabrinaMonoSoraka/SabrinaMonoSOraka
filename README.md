@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**SabrinaMonoSoraka/SabrinaMonoSOraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá pessoinhas  :man_technologist:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
+### Sobre mim:
+- :heart: Hacking, Javascript , Python
+- 💻 Servidor Hacking e Programação [discord server](https://discord.gg/cvBFQWczRt)
+- :shipit: Meu bot para Discord [TOP.GG](https://top.gg/bot/687035920452550687)
+- 🎮 Infelizmente sou péssima em lol
+
+
